@@ -36,8 +36,3 @@ Here are some ideas to get you started:
 
 </div>
 
-## snake animation
-
-
- ![snake gif](https://github.com/lokeshrookie/lokeshrookie/blob/output/github-contribution-grid-snake.gif)
-
